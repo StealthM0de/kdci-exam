@@ -50,7 +50,7 @@ img {
 .hero {
   padding: 112px 0;
   text-align: center;
-  background-image: url(./images/Banner/heroMblImg.jpg);
+  background-image: url(../images/Banner/heroMblImg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -162,7 +162,7 @@ img {
   .hero {
     padding: 180px 0;
     text-align: center;
-    background-image: url(./images/Banner/HeroImg.jpg);
+    background-image: url(../images/Banner/HeroImg.jpg);
   }
 
   .hero-title {
